@@ -1,0 +1,3 @@
+# TipCalculator
+
+Practice android app
